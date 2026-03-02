@@ -1,9 +1,26 @@
-# Hi, I'm Wojciech Chuchro 👋
 
-## 💻 Coding Profiles
-- 🟠 LeetCode: https://leetcode.com/wojciechChuchro/
+## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wojciechChuchro?theme=light&font=Karma&ext=contest)
+<p align="center">
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://leetcard.jacoblin.cool/wojciechChuchro?theme=dark&font=Baloo&ext=contest" width="400"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WojciechChuchro&show_icons=true)
+---
+
+## 🔥 LeetCode Activity Heatmap
+
+<p align="center">
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://leetcard.jacoblin.cool/wojciechChuchro?theme=dark&heatmap=true" width="600"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://leetcode.com/wojciechChuchro/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>

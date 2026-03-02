@@ -1,16 +1,17 @@
-## Hi there 👋
+---
 
-<!--
-**WojciechChuchro/WojciechChuchro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 LeetCode Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://leetcard.jacoblin.cool/wojciechChuchro?theme=dark&font=Baloo&ext=contest" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://leetcode.com/wojciechChuchro/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
